@@ -62,3 +62,11 @@ ls
 cd ..
 ls
 sudo docker-compose up --build
+ls
+git init
+git add .
+git commit -m "Assignment 3 rides" 
+git push 
+git push https://github.com/vithalnakod/CC.git
+git push --set-upstream https://github.com/vithalnakod/CC.git
+git push --set-upstream https://github.com/vithalnakod/CC.git master
